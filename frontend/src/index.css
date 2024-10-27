@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+  --bg: #0D0130;
+  --black: #090029;
+  --purple-dark: #14074B;
+  --purple: #B154F0;
+  --white: #FFFFFF;
+}
+
+html, body {
+  font-family: "Lexend", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  background-color: var(--bg);
+  color: var(--white);
+}
